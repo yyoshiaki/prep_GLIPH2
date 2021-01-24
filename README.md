@@ -38,5 +38,5 @@ See http://50.255.35.37:8080/tools and download refs.
 
 ```
 cd test
-~/Programs/gliph2/irtools.centos -c GLIPH2.params.txt
+irtools.centos -c GLIPH2.params.txt
 ```
