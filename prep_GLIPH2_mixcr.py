@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import sys
 
-# dir_mixcr = '../test'
+# dir_mixcr = './test'
 dir_mixcr = sys.argv[1]
 suffix = '.clonotypes.TRB.txt'
 
