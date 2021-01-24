@@ -1,9 +1,9 @@
 out_prefix=GLIPH2_out
 cdr3_file=GLIPH2.input.TRB.tsv
 hla_file =GLIPH2.input.HLA.tsv
-refer_file=/home/yyasumizu/media32TB/bioinformatics/reference/GLIPH2/human_v2.0/ref_CD48_v2.0.txt
-v_usage_freq_file=/home/yyasumizu/media32TB/bioinformatics/reference/GLIPH2/human_v2.0/ref_V_CD48_v2.0.txt
-cdr3_length_freq_file=/home/yyasumizu/media32TB/bioinformatics/reference/GLIPH2/human_v2.0/ref_L_CD48_v2.0.txt
+refer_file=/home/yyasumizu/reference/GLIPH2/human_v2.0/ref_CD48_v2.0.txt
+v_usage_freq_file=/home/yyasumizu/reference/GLIPH2/human_v2.0/ref_V_CD48_v2.0.txt
+cdr3_length_freq_file=/home/yyasumizu/reference/GLIPH2/human_v2.0/ref_L_CD48_v2.0.txt
 local_min_pvalue=0.001
 p_depth = 1000
 global_convergence_cutoff = 1
